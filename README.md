@@ -7,4 +7,5 @@
 本地第二次修改
 
 ## git pull 可以直接拉去最新的吗？
+yes ，现在这句话，我是用 vscode 编辑的。绑定同步后，直接执行 git pull | git push 即可。
 
